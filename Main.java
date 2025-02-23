@@ -16,7 +16,7 @@ public class Main {
         //imprimindo valores
         System.out.println("Person 1 name " + person1.name + " , age " + person1.age + ", height " + person1.country+ " ");
         System.out.println("Person 2 name " + person2.name + " , age " + person2.age + ", height " + person2.country+" ");
-        
+
         //alterando resultado
         person1.name= "Carlos";
         person1.age= 10;
